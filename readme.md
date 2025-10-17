@@ -1,6 +1,6 @@
 # jwt-turbo-decode
 
-A lightweight JWT decoder with built-in deobfuscation, compatible with Node.js and browsers. Decodes obfuscated JWT tokens while maintaining the same simple API as popular JWT decoding libraries.
+A performant JWT decoder specializing in turbo-encoded tokens, featuring built-in deobfuscation. Works identically in Node.js and browser environments while keeping full API compatibility with conventional JWT decoding solutions.
 
 ## Features
 
